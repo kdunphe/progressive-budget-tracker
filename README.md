@@ -14,4 +14,4 @@
 
 <h2>Screenshot</h2>
 
-![BudgetTracker](/assets/budgettracker.jpg)
+![BudgetTracker](/public/assets/budgettracker.jpg)
